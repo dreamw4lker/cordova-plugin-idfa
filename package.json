@@ -1,7 +1,7 @@
 {
-  "name": "cordova-plugin-idfa",
+  "name": "@betanets/cordova-plugin-idfa",
   "version": "3.0.0",
-  "description": "Cordova plugin for getting Advertising ID (IDFA or AAID)",
+  "description": "Cordova plugin for getting Advertising ID (IDFA or AAID) with iOS ATT permission request delay",
   "types": "./types/index.d.ts",
   "cordova": {
     "id": "cordova-plugin-idfa",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chemerisuk/cordova-plugin-idfa.git"
+    "url": "git+https://github.com/dreamw4lker/cordova-plugin-idfa.git"
   },
-  "author": "Maksim Chemerisuk <chemerisuk@gmail.com> (https://github.com/chemerisuk)",
+  "author": "Alexander Shkirkov <can3456@mail.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chemerisuk/cordova-plugin-idfa/issues"
+    "url": "https://github.com/dreamw4lker/cordova-plugin-idfa/issues"
   },
-  "homepage": "https://github.com/chemerisuk/cordova-plugin-idfa#readme",
+  "homepage": "https://github.com/dreamw4lker/cordova-plugin-idfa/#readme",
   "funding": "https://github.com/chemerisuk/cordova-plugin-idfa?sponsor=1",
   "keywords": [
     "cordova",
